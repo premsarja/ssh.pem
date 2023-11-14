@@ -1,0 +1,3 @@
+[all]
+54.172.142.21 ansible_user=ansible ansible_password=ansible
+52.91.15.208 ansible_user=ansible  ansible_password=ansible
